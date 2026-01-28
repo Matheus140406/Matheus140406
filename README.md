@@ -4,7 +4,5 @@
 - 😄 Pronouns: Ele/Dele
 <picture>
   <source
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=radical)/>
 </picture>
