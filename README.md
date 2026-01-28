@@ -1,7 +1,8 @@
-Óla, eu sou Matheus140406
-- 🔭 Hoje trabalho como fullstack iniciante 
-- 🌱 Hoje em dia estou cursando a faculdade de Sistemas de informação
-- 😄 Pronouns: Ele/Dele
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&width=500&lines=Olá%2C+sou+o+Matheus!;Fullstack+Developer+Iniciante;Cursando+Sistemas+de+Informação" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=radical" />
@@ -19,9 +20,3 @@
 <a href="https://www.linkedin.com/in/matheus-carvalho-dias-829877357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/teamdevmatheus?igsh=OXJtMWZwNGFqY2l3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:matheusteamdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus140406&theme=radical" />
-</p>
