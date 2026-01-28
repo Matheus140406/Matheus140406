@@ -4,6 +4,11 @@
   </a>
 </p>
 
+> ### 👤 Perfil Profissional
+> * 💻 **Foco Atual:** Desenvolvimento Fullstack
+> * 🎓 **Formação:** Sistemas de Informação (Em andamento)
+> * 🌍 **Localização:** Brasil
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus140406&layout=compact&theme=radical" />
