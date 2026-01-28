@@ -21,4 +21,4 @@
 <a href="mailto:matheusteamdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-![Commits do Matheus](https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Streak do Matheus](https://github-readme-streak-stats.herokuapp.com/?user=Matheus140406&theme=radical)
