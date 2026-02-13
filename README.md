@@ -10,8 +10,9 @@
 > * 🌍 **Localização:** Brasil
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus140406&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus140406&layout=compact&theme=tokyonight&border_radius=10"/>
 </div>
 
 ## 🌐 Front-end
