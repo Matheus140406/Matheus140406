@@ -41,6 +41,49 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus140406&theme=react-dark&hide_border=true" />
 </p>
 
+## 🚀 Portfólio de Projetos
+
+Projetos testes e independentes, criados para explorar conceitos fundamentais e colocar em prática a paixão pela programação.
+
+### ⚡ Clone rápido (todos os projetos)
+
+```bash
+git clone https://github.com/Matheus140406/CafeteriaAroma-Sabor.git && git clone https://github.com/Matheus140406/ModoDark.git && git clone https://github.com/Matheus140406/Previsaodotempo.git && git clone https://github.com/Matheus140406/Relogio-digital.git
+```
+
+### 🛠️ Projetos e trajetória
+
+| Projeto | Descrição | Tecnologias | Links rápidos |
+| --- | --- | --- | --- |
+| ☕ **Cafeteria Aroma e Sabor** | **O primeiro de todos:** o projeto que acendeu a faísca e nos fez apaixonar pela programação. Site institucional para uma cafeteria, com cardápio, apresentação de produtos e contato — desenvolvido como teste para explorar até onde poderíamos ir com HTML e CSS. | HTML, CSS | [📂 Código-fonte](https://github.com/Matheus140406/CafeteriaAroma-Sabor) |
+| 🌓 **Modo Dark e Light** | **Primeiros testes em JS (2024):** um dos primeiros experimentos práticos de manipulação do DOM, permitindo alternar suavemente entre tema claro e escuro e salvando a preferência do usuário. | HTML, CSS, JavaScript | [📂 Código-fonte](https://github.com/Matheus140406/ModoDark) |
+| ⏰ **Relógio Digital** | **Sincronização em tempo real:** estudo de manipulação de datas e horas com JavaScript, criando um relógio digital atualizado em tempo real e sincronizado com o sistema do usuário. | HTML, CSS, JavaScript | [📂 Código-fonte](https://github.com/Matheus140406/Relogio-digital) |
+| 🌦️ **Previsão do Tempo** | **Consumo de dados:** aplicação que consulta uma API de clima e exibe temperatura, condição e previsão dos próximos dias de forma dinâmica na interface. | HTML, CSS, JavaScript, API | [📂 Código-fonte](https://github.com/Matheus140406/Previsaodotempo) |
+
+### ☕ Sobre a minha jornada
+
+> *"Todo grande desenvolvedor começou criando páginas simples até entender que podia construir qualquer coisa."*
+
+- **2024:** início dos primeiros experimentos práticos em programação web, aprendendo na prática com HTML, CSS e JavaScript.
+- **Exploração:** criação de pequenos utilitários e interfaces dinâmicas (manipulação de DOM, APIs e temas).
+- **Foco:** evolução contínua em arquitetura de código, segurança e desenvolvimento web de alta performance.
+
+### 📦 Como rodar um projeto individualmente
+
+```bash
+# Cafeteria Aroma e Sabor
+git clone https://github.com/Matheus140406/CafeteriaAroma-Sabor.git
+
+# Modo Dark
+git clone https://github.com/Matheus140406/ModoDark.git
+
+# Relógio Digital
+git clone https://github.com/Matheus140406/Relogio-digital.git
+
+# Previsão do Tempo
+git clone https://github.com/Matheus140406/Previsaodotempo.git
+```
+
 ## 📫 Conecte-se comigo
 
 <p align="left">
