@@ -29,14 +29,6 @@
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus140406&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus140406&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ## 🔥 Sequência de Contribuições (Streak)
 
 <p align="left">
@@ -47,12 +39,6 @@
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus140406&theme=react-dark&hide_border=true" />
-</p>
-
-## 🏆 Troféus
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheus140406&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ## 📫 Conecte-se comigo
