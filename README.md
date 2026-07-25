@@ -71,15 +71,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-
-# Pergunta antes de enviar pro remoto
-read -p "🚀 Deseja enviar (push) para o repositório remoto agora? (s/n): " RESPOSTA
-
-if [[ "$RESPOSTA" == "s" || "$RESPOSTA" == "S" ]]; then
-  git push origin "$BRANCH"
-  echo "🎉 Push concluído para a branch '$BRANCH'."
-else
-  echo "⏸️  Commits criados localmente. Envie manualmente quando quiser com: git push origin $BRANCH"
-fi
