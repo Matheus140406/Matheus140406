@@ -72,58 +72,7 @@
   </a>
 </p>
 
-#!/bin/bash
-# =========================================================
-# commit-massa.sh
-# Faz um commit separado para cada arquivo modificado/novo
-# no repositório atual, e depois envia tudo (push) de uma vez.
-# =========================================================
-#
-# Uso:
-#   ./commit-massa.sh "mensagem base"
-#
-# Exemplo:
-#   ./commit-massa.sh "update"
-#   -> gera commits como: "update: index.html", "update: style.css", etc.
-#
-# Se nenhuma mensagem for passada, usa "update" como padrão.
 
-MSG=${1:-"update"}
-BRANCH=$(git branch --show-current)
-
-# Verifica se está dentro de um repositório git
-if ! git rev-parse --is-inside-work-tree > /dev/null 2>&1; then
-  echo "❌ Este diretório não é um repositório git."
-  exit 1
-fi
-
-echo "📦 Repositório detectado. Branch atual: $BRANCH"
-echo "🔍 Verificando arquivos modificados..."
-
-# Pega a lista de arquivos modificados/novos/deletados
-ARQUIVOS=$(git status --porcelain | awk '{print $2}')
-
-if [ -z "$ARQUIVOS" ]; then
-  echo "✅ Nada para commitar. Tudo já está atualizado."
-  exit 0
-fi
-
-CONTADOR=0
-
-# Faz um commit por arquivo
-while IFS= read -r arquivo; do
-  if [ -n "$arquivo" ]; then
-    git add "$arquivo"
-    git commit -m "$MSG: $arquivo" --quiet
-    if [ $? -eq 0 ]; then
-      CONTADOR=$((CONTADOR + 1))
-      echo "✅ Commit criado para: $arquivo"
-    fi
-  fi
-done <<< "$ARQUIVOS"
-
-echo ""
-echo "📊 Total de commits criados: $CONTADOR"
 
 # Pergunta antes de enviar pro remoto
 read -p "🚀 Deseja enviar (push) para o repositório remoto agora? (s/n): " RESPOSTA
