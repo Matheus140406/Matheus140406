@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Matheus!;Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o;Aprendendo+Java+e+Python;Sempre+codando+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Matheus!;Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o;Aprendendo+Java%2C+Python+e+SQL;Sempre+codando+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,12 +23,24 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 🔙 Futuro Back-end
+## 🔙 Back-end e Banco de Dados
 
 <p align="left">
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+## 🐍 Jogo da Cobrinha (minhas contribuições)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake.svg" />
+    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 🔥 Sequência de Contribuições (Streak)
 
 <p align="left">
@@ -45,44 +57,20 @@
 
 Projetos testes e independentes, criados para explorar conceitos fundamentais e colocar em prática a paixão pela programação.
 
-### ⚡ Clone rápido (todos os projetos)
-
-```bash
-git clone https://github.com/Matheus140406/CafeteriaAroma-Sabor.git && git clone https://github.com/Matheus140406/ModoDark.git && git clone https://github.com/Matheus140406/Previsaodotempo.git && git clone https://github.com/Matheus140406/Relogio-digital.git
-```
-
-### 🛠️ Projetos e trajetória
-
 | Projeto | Descrição | Tecnologias | Links rápidos |
 | --- | --- | --- | --- |
-| ☕ **Cafeteria Aroma e Sabor** | **O primeiro de todos:** o projeto que acendeu a faísca e nos fez apaixonar pela programação. Site institucional para uma cafeteria, com cardápio, apresentação de produtos e contato — desenvolvido como teste para explorar até onde poderíamos ir com HTML e CSS. | HTML, CSS | [📂 Código-fonte](https://github.com/Matheus140406/CafeteriaAroma-Sabor) |
-| 🌓 **Modo Dark e Light** | **Primeiros testes em JS (2024):** um dos primeiros experimentos práticos de manipulação do DOM, permitindo alternar suavemente entre tema claro e escuro e salvando a preferência do usuário. | HTML, CSS, JavaScript | [📂 Código-fonte](https://github.com/Matheus140406/ModoDark) |
-| ⏰ **Relógio Digital** | **Sincronização em tempo real:** estudo de manipulação de datas e horas com JavaScript, criando um relógio digital atualizado em tempo real e sincronizado com o sistema do usuário. | HTML, CSS, JavaScript | [📂 Código-fonte](https://github.com/Matheus140406/Relogio-digital) |
-| 🌦️ **Previsão do Tempo** | **Consumo de dados:** aplicação que consulta uma API de clima e exibe temperatura, condição e previsão dos próximos dias de forma dinâmica na interface. | HTML, CSS, JavaScript, API | [📂 Código-fonte](https://github.com/Matheus140406/Previsaodotempo) |
+| ☕ **Cafeteria Aroma e Sabor** | **O primeiro de todos:** o projeto que acendeu a faísca e nos fez apaixonar pela programação. Site institucional para uma cafeteria, com cardápio, apresentação de produtos e contato. | HTML, CSS | [📂 Código-fonte](https://github.com/Matheus140406/CafeteriaAroma-Sabor) |
+| 🌓 **Modo Dark e Light** | **Primeiros testes em JS (2024):** manipulação do DOM, alternando entre tema claro e escuro e salvando a preferência do usuário. | HTML, CSS, JavaScript | [📂 Código-fonte](https://github.com/Matheus140406/ModoDark) |
+| ⏰ **Relógio Digital** | **Tempo real:** estudo de datas e horas com JavaScript, criando um relógio digital sincronizado com o sistema do usuário. | HTML, CSS, JavaScript | [📂 Código-fonte](https://github.com/Matheus140406/Relogio-digital) |
+| 🌦️ **Previsão do Tempo** | **Consumo de dados:** consulta uma API de clima e exibe temperatura, condição e previsão dos próximos dias. | HTML, CSS, JavaScript, API | [📂 Código-fonte](https://github.com/Matheus140406/Previsaodotempo) |
 
 ### ☕ Sobre a minha jornada
 
 > *"Todo grande desenvolvedor começou criando páginas simples até entender que podia construir qualquer coisa."*
 
-- **2024:** início dos primeiros experimentos práticos em programação web, aprendendo na prática com HTML, CSS e JavaScript.
-- **Exploração:** criação de pequenos utilitários e interfaces dinâmicas (manipulação de DOM, APIs e temas).
-- **Foco:** evolução contínua em arquitetura de código, segurança e desenvolvimento web de alta performance.
-
-### 📦 Como rodar um projeto individualmente
-
-```bash
-# Cafeteria Aroma e Sabor
-git clone https://github.com/Matheus140406/CafeteriaAroma-Sabor.git
-
-# Modo Dark
-git clone https://github.com/Matheus140406/ModoDark.git
-
-# Relógio Digital
-git clone https://github.com/Matheus140406/Relogio-digital.git
-
-# Previsão do Tempo
-git clone https://github.com/Matheus140406/Previsaodotempo.git
-```
+- **2024:** início dos primeiros experimentos práticos em programação web, com HTML, CSS e JavaScript.
+- **Exploração:** pequenos utilitários e interfaces dinâmicas (DOM, APIs e temas).
+- **Foco:** evolução em back-end, banco de dados SQL, arquitetura de código e segurança.
 
 ## 📫 Conecte-se comigo
 
