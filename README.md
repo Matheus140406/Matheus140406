@@ -34,23 +34,19 @@
 ## 🐍 Jogo da Cobrinha (minhas contribuições)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake.svg" />
-    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake.svg" />
-  </picture>
+  <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/github-snake-neon.svg" />
 </p>
 
 ## 🔥 Sequência de Contribuições (Streak)
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus140406&theme=radical&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus140406&hide_border=true&background=0D1117&ring=00FFF0&fire=FF00E5&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=00FFF0&sideLabels=00FFF0&dates=C9D1D9&stroke=30363D" alt="Sequência de contribuições" />
 </p>
 
 ## 📈 Gráfico de Contribuições
 
-<p align="left">
-  <img src="https://ghchart.rshah.org/f7df1e/Matheus140406" alt="Gráfico de contribuições de Matheus140406" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matheus140406/Matheus140406/output/neon-chart.svg" alt="Gráfico neon de contribuições semanais" />
 </p>
 
 ## 🚀 Portfólio de Projetos
