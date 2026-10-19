@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## minhas contribuições
+## 🐍 Jogo da Cobrinha (minhas contribuições)
 
 <p align="center">
   <picture>
@@ -44,13 +44,13 @@
 ## 🔥 Sequência de Contribuições (Streak)
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus140406&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus140406&theme=radical&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
-## 📈 Gráfico de Atividade (Commits)
+## 📈 Gráfico de Contribuições
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus140406&theme=react-dark&hide_border=true" />
+  <img src="https://ghchart.rshah.org/f7df1e/Matheus140406" alt="Gráfico de contribuições de Matheus140406" />
 </p>
 
 ## 🚀 Portfólio de Projetos
